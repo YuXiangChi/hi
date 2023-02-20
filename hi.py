@@ -1,2 +1,2 @@
-mame = input ('請輸入姓名：')
-print ('hi',name)
+name = input ('請輸入姓名')
+print ('Hi',name)
